@@ -27,3 +27,6 @@ Apart from the Tkinter widgets, we have defined the following functions in our c
 - bt_clear() Function: This function is used to handle the clear operation to clean the previous input in the Calculator application.
 <br />
 - bt_equal() Function: This function is used to handle the equal button to execute the operation and show the result.
+
+
+# Output :
