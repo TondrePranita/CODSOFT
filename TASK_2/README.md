@@ -30,3 +30,5 @@ Apart from the Tkinter widgets, we have defined the following functions in our c
 
 
 # Output :
+![2023-08-28](https://github.com/TondrePranita/CODSOFT/assets/138645068/0b30371b-c05d-4e23-87f4-bd2a65d98613)
+
