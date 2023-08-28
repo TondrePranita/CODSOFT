@@ -44,5 +44,6 @@ In the add_item function, we will give the Entry object’s user-provided text t
 In the delete_item function, the user will give the function one argument that will be a listbox object. In this function, we will delete the item selected in the listbox object.line of our text file.
 
 # Output :
-  ![Screenshot (3)](https://github.com/TondrePranita/CODSOFT/assets/138645068/feea1fc5-94f5-4c5f-9a1e-e53845cabf0e)
+![Screenshot (3)](https://github.com/TondrePranita/CODSOFT/assets/138645068/de334fa3-3caa-4ecb-ac0f-2413ba73bdc7)
+
 
